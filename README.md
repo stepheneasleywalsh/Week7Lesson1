@@ -2,6 +2,7 @@
 A program that asks for a base and a power. For example:
 
 x = ? 2
+
 n = ? 3
 
 Then the program should print the answer LIKE THIS:
